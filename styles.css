@@ -1,11 +1,6 @@
-html, body {
-  overflow-x: hidden;
-}
-
 body {
     background:#1d1d1d;
     font-weight: bold;
-    position: relative;
   }
   
   .wrapper{
