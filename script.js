@@ -1,5 +1,5 @@
 const COLORS = [
-  "pink", "dodgerblue", "crimson", "purple", "violet", "skyblue"
+  "pink", "dodgerblue", "crimson", "purple", "violet", "green", // "skyblue"
 ]
 
 //initially colorize each box and position in a row
